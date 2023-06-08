@@ -12,6 +12,6 @@
     
     <li>Курсовой проект</li> 
     <li><a href="https://github.com/Pekanov/SwiftProject/blob/main/Word%20Hub.pptx">Презентация</a></li> 
- 
+   
 </ul>
 
