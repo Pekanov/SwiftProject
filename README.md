@@ -9,5 +9,6 @@
 <h2>Документация</h2>
 <ul> 
     <li><a href="https://github.com/Pekanov/SwiftProject/blob/main/Word%20Hub.pptx"> Презентация</a> </li> 
+    <li><a href="https://github.com/Pekanov/SwiftProject/blob/main/Kyrsovaya.docx"> Курсовая работа</a> </li>
 </ul>
 
